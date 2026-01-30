@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 I am a Data Scientist. Certifications: Kaggle Python Certificate
+
+### Certification: Completed Kaggle Python Course
+[View Credentials](https://www.kaggle.com/learn/certification/mappi4/python)
 <!--
 **Prachurjya-Gogoi-DS/Prachurjya-Gogoi-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
